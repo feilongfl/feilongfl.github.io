@@ -4,7 +4,7 @@
   "name": "fei long",
   "userimg": "https://avatars0.githubusercontent.com/u/10269596?v=4",
   "sort": "star",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
   "theme": "dark.css"
  }
